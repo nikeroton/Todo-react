@@ -93,3 +93,7 @@ body{
 .icon-delete:hover{
   color: red;
 }
+.snakeDiv{
+  border: 2px solid white;
+  border-radius:20px ;
+}
