@@ -2,6 +2,8 @@ import React, { useState } from 'react'
 import './App.css'
 import Todoinput from './assets/components/Todoinput'
 import TodoList from './assets/components/TodoList';
+import SnakeDesign from './SnakeDesign'
+
 
 
 function App() {
