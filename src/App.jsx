@@ -12,6 +12,8 @@ function App() {
   }
   return (
       <>
+          <h1>Snake design</h1>
+      <SnakeDesign/>
   <div className="main-container">
   <div className="center-container">
     <Todoinput addList={addList}/>
